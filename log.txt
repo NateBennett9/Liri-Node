@@ -158,4 +158,42 @@ Preview Link from Spotify: "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70A
 Name of the musician: Cher
 Name of the venue:-----Begin Concert Log Entry-----
 Name of the musician: Khalid
+Name of the venue:-----Begin Concert Log Entry-----
+Name of the musician: Cher
 Name of the venue:
+-----------------------------------
+Artists: "Kane Brown"
+Song Name: "Lose It"
+Album: "Experiment"
+Preview Link from Spotify: "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+-----------------------------------
+-----------------------------------
+Artists: "A Boogie Wit da Hoodie"
+Song Name: "Look Back At It"
+Album: "Hoodie SZN"
+Preview Link from Spotify: "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+-----------------------------------
+-----------------------------------
+Artists: "Eminem"
+Song Name: "Lose Yourself - From \"8 Mile\" Soundtrack"
+Album: "Curtain Call"
+Preview Link from Spotify: "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+----------------------------------------------------------------------
+Title: "The Matrix"
+Year: "1999"
+IMDB Rating: "8.7"
+Rotton Tomatoes Rating: "73/100"
+Location: "USA"
+Language: "English"
+Plot: "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+Actors: "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving"
+--------------------------------------------------------------------------------------
+Title: "The Revenant"
+Year: "2015"
+IMDB Rating: "8.0"
+Rotton Tomatoes Rating: "76/100"
+Location: "USA, Hong Kong, Taiwan"
+Language: "English, Pawnee, French"
+Plot: "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team."
+Actors: "Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter"
+---------------------------------------------------
